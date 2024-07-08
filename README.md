@@ -3,7 +3,7 @@
 
 ## Intro to Machine Learning
 
-Learn the core ideas in machine learning, and build your first models.
+Learn the core ideas in machine learning, and build your first models. [Intro to Machine Learning - Course Link](https://www.kaggle.com/learn/pandas)
 
 ### Lessons
 
