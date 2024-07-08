@@ -20,3 +20,6 @@ Dan Becker
 
 ## Certificate
 
+![Certificate](Ahmed%20Tareque%20-%20Intro%20to%20Machine%20Learning.png)
+
+
