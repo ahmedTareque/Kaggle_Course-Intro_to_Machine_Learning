@@ -18,7 +18,7 @@ Learn the core ideas in machine learning, and build your first models.
 * Machine Learning Competitions
 
 Instructor
-Dan Becker
+[Aleksey Bilogur](https://www.kaggle.com/residentmario)
 
 ## Certificate
 
